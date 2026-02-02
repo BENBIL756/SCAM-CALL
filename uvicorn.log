@@ -1,0 +1,29 @@
+INFO:     127.0.0.1:56044 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56044 - "GET /ready HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56044 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53358 - "GET /ready HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63645 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63645 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63645 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63930 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58927 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62477 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62477 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51036 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51036 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65179 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65179 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65179 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65179 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50801 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50801 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63427 - "POST /detect HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:64147 - "POST /detect HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:64147 - "POST /detect HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:64147 - "POST /detect HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:49402 - "GET /ready HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49402 - "GET /ready HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50794 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57334 - "POST /detect HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:57334 - "POST /detect HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:55177 - "POST /detect HTTP/1.1" 422 Unprocessable Content
